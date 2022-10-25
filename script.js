@@ -76,4 +76,4 @@
 
  console.log("function returns: "+ passwordChecker());
 
- // test
+ 
